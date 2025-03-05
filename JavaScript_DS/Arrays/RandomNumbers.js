@@ -28,4 +28,6 @@ for(let i=0;i<randomNumbersArray.length;i++){
         secondSmallest=randomNumbersArray[i];
     }
 }
+console.log("Second Largest: "+secondLargest);
+console.log("Second Smallest: "+secondSmallest);
 
